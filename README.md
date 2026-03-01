@@ -31,6 +31,9 @@ Foram testados dois algoritmos principais para comparação:
 
 **Justificativa:** A Regressão Logística foi selecionada como o modelo final devido ao seu melhor equilíbrio entre acurácia e a capacidade de classificar corretamente clientes que permanecem na empresa, mantendo um alto índice de detecção de evasão.
 
+### Visualização de Impacto
+![Ranking de Impacto](Ranking%20de%20Impacto-%20Variaveis%20Decisivas.png)
+
 ## Insights e Conclusão
 Com base na análise de **Feature Importance**, identificamos os 3 maiores fatores de risco:
 1. **TotalCharges (18.4%):** Clientes com gastos acumulados altos são mais sensíveis a mudanças.
