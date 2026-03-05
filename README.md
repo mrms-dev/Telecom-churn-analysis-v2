@@ -55,7 +55,7 @@ Impacto Financeiro (Total & Monthly Charges - 35.6% combinados): O valor da fatu
 
 Fatores de Retenção Críticos: O suporte técnico (TechSupport) e a segurança online (OnlineSecurity) não são apenas serviços extras, mas sim as principais barreiras que impedem o Churn.
 
-## Conclusão e Próximos Passos
+## Conclusão
 O desenvolvimento deste projeto permitiu a criação de um modelo preditivo com 90% de Recall, garantindo que a empresa identifique quase a totalidade dos clientes em risco antes que a evasão ocorra.
 
 Diferente de uma abordagem genérica, os dados mostram que a estratégia de retenção deve ser segmentada:
