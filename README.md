@@ -67,4 +67,14 @@ Blindagem de Serviços: Oferecer gratuitamente períodos de teste de TechSupport
 Otimização de Custos: Clientes com alto TotalCharges devem ser migrados para planos de fidelidade de longo prazo (Contract) com descontos progressivos, reduzindo a sensibilidade ao preço mensal.
 
 ---
-Desenvolvido por **Marcos Rivanio Marinho dos Santos**.
+---
+<div align="center">
+  <img src="https://github.com/mrms-dev.png" width="100px;" alt="Foto de Marcos Rivanio"/><br>
+  <sub><b>Desenvolvido por:</b></sub><br>
+  <b>Marcos Rivanio Marinho dos Santos, PhD</b>
+  <br>
+
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/SEU_PERFIL_AQUI)
+  [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mrms-dev)
+  [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://mrms-dev.github.io)
+</div>
