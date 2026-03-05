@@ -71,7 +71,7 @@ Otimização de Custos: Clientes com alto TotalCharges devem ser migrados para p
 <div align="center">
   <img src="https://github.com/mrms-dev.png" width="100px;" alt="Foto de Marcos Rivanio"/><br>
   <sub><b>Desenvolvido por:</b></sub><br>
-  <b>Marcos Rivanio Marinho dos Santos, PhD</b>
+  <b>Marcos Rivanio Marinho dos Santos,</b>
   <br>
 
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/SEU_PERFIL_AQUI)
