@@ -45,13 +45,26 @@ Foram testados dois algoritmos principais para comparação:
 ![Ranking de Impacto](Ranking%20de%20Impacto-%20Variaveis%20Decisivas.png)
 *Importância relativa de cada atributo para a tomada de decisão do modelo Random Forest.*
 
-## Insights e Conclusão
-Com base na análise de **Feature Importance**, os 3 maiores fatores de risco identificados foram:
-1. **TotalCharges (18.4%):** Gastos acumulados indicam sensibilidade ao valor do serviço.
-2. **MonthlyCharges (17.2%):** O valor da fatura mensal é um gatilho direto para evasão.
-3. **Tenure (16.4%):** Clientes em meses iniciais de contrato são os mais voláteis.
+>
+## Insights e Análise de Risco
+Com base na análise de Feature Importance e nos coeficientes de correlação, os fatores que mais exigem atenção da Telecom X são:
 
-> **Estratégia sugerida:** Implementar programas de fidelização para novos clientes e reforçar o suporte técnico (`TechSupport`), que atua como um forte pilar de retenção.
+Ciclo de Vida do Cliente (Tenure - 16.4%): Clientes em meses iniciais de contrato apresentam a maior volatilidade. O risco de evasão diminui drasticamente à medida que o tempo de relacionamento aumenta.
+
+Impacto Financeiro (Total & Monthly Charges - 35.6% combinados): O valor da fatura é o principal gatilho de saída. Clientes com faturas acima da média e sem serviços de valor agregado tendem a buscar concorrentes.
+
+Fatores de Retenção Críticos: O suporte técnico (TechSupport) e a segurança online (OnlineSecurity) não são apenas serviços extras, mas sim as principais barreiras que impedem o Churn.
+
+## Conclusão e Próximos Passos
+O desenvolvimento deste projeto permitiu a criação de um modelo preditivo com 90% de Recall, garantindo que a empresa identifique quase a totalidade dos clientes em risco antes que a evasão ocorra.
+
+Diferente de uma abordagem genérica, os dados mostram que a estratégia de retenção deve ser segmentada:
+
+Fidelização Preventiva: Implementar um onboarding assistido para novos clientes nos primeiros 6 meses, focando na percepção de valor e não apenas no custo.
+
+Blindagem de Serviços: Oferecer gratuitamente períodos de teste de TechSupport para clientes com faturas elevadas, criando uma dependência positiva do ecossistema da empresa.
+
+Otimização de Custos: Clientes com alto TotalCharges devem ser migrados para planos de fidelidade de longo prazo (Contract) com descontos progressivos, reduzindo a sensibilidade ao preço mensal.
 
 ---
 Desenvolvido por **Marcos Rivanio Marinho dos Santos**.
